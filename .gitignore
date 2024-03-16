@@ -1,0 +1,8 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled Java class files
+*.class
+
+# Output directories
+out/
